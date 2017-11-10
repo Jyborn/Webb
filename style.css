@@ -92,7 +92,7 @@ section.content.meny {
 
 #map {
 	margin: 4%;
-	height: 100%;
+	height: auto;
 	width: 92%;
 	grid-area: map;
 }
